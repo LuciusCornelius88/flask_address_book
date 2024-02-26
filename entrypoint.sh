@@ -1,3 +1,5 @@
+#!/bin/bash
+
 attempts=0
 max_attempts=100
 sleep_time=5
