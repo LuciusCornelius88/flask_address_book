@@ -1,0 +1,6 @@
+flask
+SQLAlchemy
+Flask-SQLAlchemy
+Flask-Migrate
+mysqlclient
+mysql-connector-python
